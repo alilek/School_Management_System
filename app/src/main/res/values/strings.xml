@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">School_Management_System_ADAM</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="register">register</string>
+    <string name="already_registered">already_registered</string>
+    <string name="login">login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Signup">Sign up</string>
+    <string name="ADAM">ADAM</string>
+    <string name="YourSchoolBuddy">Your School Buddy</string>
+    <string name="Login">Login</string>
+    <string name="Confirmpassword">Confirm Password</string>
+    <string name="Email">Email</string>
+    <string name="AlreadyRegistered">Already Registered</string>
+    <string name="classname">Classname</string>
+    <string name="section">Section</string>
+    <string name="delete_row">Delete Row</string>
+    <string name="subjectname">Subject Name</string>
+    <string name="subjectid">Subject ID</string>
+    <string name="staffname">Staff Name</string>
+    <string name="salary">Salary</string>
+    <string name="Qualification">Qualification</string>
+    <string name="subjectteacher">Subject Teacher</string>
+</resources>
